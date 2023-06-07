@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "input[class=\"input__element input__element--first ng-pristine ng-valid ng-touched\"]"
+}

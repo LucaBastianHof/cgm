@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[class=\"search-card-city ng-star-inserted\"]\"}\n  (Session info: chrome=114.0.5735.91)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00E4A813+48355]\n\t(No symbol) [0x00DDC4B1]\n\t(No symbol) [0x00CE5358]\n\t(No symbol) [0x00D109A5]\n\t(No symbol) [0x00D10B3B]\n\t(No symbol) [0x00D3E232]\n\t(No symbol) [0x00D2A784]\n\t(No symbol) [0x00D3C922]\n\t(No symbol) [0x00D2A536]\n\t(No symbol) [0x00D082DC]\n\t(No symbol) [0x00D093DD]\n\tGetHandleVerifier [0x010AAABD+2539405]\n\tGetHandleVerifier [0x010EA78F+2800735]\n\tGetHandleVerifier [0x010E456C+2775612]\n\tGetHandleVerifier [0x00ED51E0+616112]\n\t(No symbol) [0x00DE5F8C]\n\t(No symbol) [0x00DE2328]\n\t(No symbol) [0x00DE240B]\n\t(No symbol) [0x00DD4FF7]\n\tBaseThreadInitThunk [0x765B7D59+25]\n\tRtlInitializeExceptionChain [0x775AB74B+107]\n\tRtlClearBits [0x775AB6CF+191]\n"
+}

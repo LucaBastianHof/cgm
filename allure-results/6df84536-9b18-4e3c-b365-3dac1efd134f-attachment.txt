@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "button[class=\"search-physician-card highLight ng-star-inserted\"]"
+}

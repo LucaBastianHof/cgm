@@ -1,0 +1,6 @@
+{
+  "cookie": {
+    "name": "test2",
+    "value": "two"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "[placeholder=\"Fachbereich, Name des Arztes, Praxis oder Einrichtung\"]"
+}
